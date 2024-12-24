@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ADV_JAVA_PRACS_V2.iml" filepath="$PROJECT_DIR$/.idea/ADV_JAVA_PRACS_V2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/servlet-jsp-pracs.iml" filepath="$PROJECT_DIR$/servlet-jsp-pracs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet-jsp-pracs/servlet-jsp-pracs.iml" filepath="$PROJECT_DIR$/servlet-jsp-pracs/servlet-jsp-pracs.iml" />
     </modules>
   </component>
 </project>
