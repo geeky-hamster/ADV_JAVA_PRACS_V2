@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Context docBase="S:/BCA CORPORATE TRAINING/java_servlet/hinduja-ty-2024-servlet-jsp/src/main/webapp">
-  <Resources cacheMaxSize="10240">
-    <PreResources base="S:/BCA CORPORATE TRAINING/java_servlet/hinduja-ty-2024-servlet-jsp/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
-    <PostResources base="C:/Users/rsssk/.m2/repository/org/postgresql/postgresql/42.7.4/postgresql-42.7.4.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/postgresql-42.7.4.jar"/>
-    <PostResources base="C:/Users/rsssk/.m2/repository/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/checker-qual-3.42.0.jar"/>
-  </Resources>
-</Context>
