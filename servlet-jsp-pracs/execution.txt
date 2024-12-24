@@ -1,0 +1,21 @@
+Prime number Servlet
+localhost:8080/servlet-jsp-pracs/prime-number?number=25
+
+Even number Servlet
+localhost:8080/servlet-jsp-pracs/even-number?start=5&end=500
+
+Name length Servlet
+localhost:8080/servlet-jsp-pracs/name-length.html
+
+Redirect to website based on even or odd number Servlet
+localhost:8080/servlet-jsp-pracs/redirect?number=24
+
+Redirect Servlet (Lowercase)
+localhost:8080/servlet-jsp-pracs/first-servlet?name=JAVA
+
+Prime Number JSP
+localhost:8080/servlet-jsp-pracs/prime-number.jsp?number=25
+
+Redirect JSP
+localhost:8080/servlet-jsp-pracs/redirect.jsp
+
